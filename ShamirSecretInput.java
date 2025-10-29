@@ -1,3 +1,20 @@
+/**
+ * Shamir's Secret Sharing - Java Implementation
+ * 
+ * Student Assignment Project
+ * Assignment: Hashira Placements Assignment - Catalog
+ * Student: Satya
+ * Date: October 29, 2025
+ * Duration: 45 minutes
+ * Language: Java
+ * 
+ * This program solves Shamir's Secret Sharing by:
+ * 1. Reading JSON input with encoded roots in various bases
+ * 2. Decoding values from different bases to decimal
+ * 3. Using Lagrange interpolation to find the polynomial
+ * 4. Extracting the secret (constant term) by evaluating at x=0
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 import java.math.BigInteger;

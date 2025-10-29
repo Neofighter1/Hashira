@@ -1,6 +1,17 @@
 # Shamir's Secret Sharing - Java Implementation
 
-A Java program that solves Shamir's Secret Sharing problems by decoding values from various bases and using Lagrange interpolation to find the secret (constant term of a polynomial).
+**Student Assignment Project**  
+**Hashira Placements Assignment - Catalog**
+
+---
+
+## 📌 Assignment Details
+
+- **Assignment:** Hashira Placements Assignment - Online
+- **Duration:** 45 minutes
+- **Language:** Java (as required - Python not allowed)
+- **Student:** Satya
+- **Date:** October 29, 2025
 
 ---
 
@@ -238,15 +249,42 @@ Using first 3 points for interpolation
 
 ---
 
+## 🎓 Learning Outcomes
+
+Through this assignment, I learned:
+- Implementation of Shamir's Secret Sharing algorithm
+- Working with BigInteger for handling large numbers
+- Lagrange interpolation technique
+- JSON parsing without external libraries
+- Base conversion algorithms
+- Polynomial reconstruction from points
+
+---
+
+## 📝 Assignment Notes
+
+- **Input Format:** JSON files with encoded roots in various bases
+- **Output:** The secret (constant term of polynomial)
+- **Key Challenge:** Handling very large numbers (40+ digits)
+- **Solution:** Used BigInteger and BigDecimal for precision
+
+---
+
 ## 👨‍💻 Author
 
-Created for the Hashira Placements Assignment
+**Student Project**  
+Created by: Satya  
+Assignment: Hashira Placements Assignment - Online  
+Duration: 45 minutes  
+Date: October 29, 2025
+
+This is a student submission for the Catalog Placements Assignment demonstrating implementation of Shamir's Secret Sharing algorithm in Java.
 
 ---
 
 ## 📄 License
 
-Free to use for educational purposes.
+This is a student assignment project for educational purposes.
 
 ---
 
