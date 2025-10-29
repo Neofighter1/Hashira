@@ -10,7 +10,7 @@
 - **Assignment:** Hashira Placements Assignment - Online
 - **Duration:** 45 minutes
 - **Language:** Java (as required - Python not allowed)
-- **Student:** Satya
+- **Student:** Satyam
 - **Date:** October 29, 2025
 
 ---
